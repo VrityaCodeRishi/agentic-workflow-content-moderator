@@ -2,7 +2,7 @@
 
 An AI-powered content moderation system built with LangGraph that analyzes user-submitted content and routes it through appropriate moderation paths based on severity classification.
 
-## 🎯 Overview
+## Overview
 
 This system provides automated content moderation using a multi-stage agentic workflow. It analyzes content, classifies severity levels, and routes content to appropriate action nodes (approve, flag, reject, or escalate) with clear explanations for moderation decisions.
 

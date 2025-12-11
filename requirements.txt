@@ -1,0 +1,15 @@
+# Core dependencies for content moderation workflow
+pydantic
+python-dotenv
+typing-extensions
+
+# LangGraph and LangChain dependencies
+langgraph
+langchain-core
+langchain-openai
+
+# UI dependencies
+streamlit
+
+# Optional: For notebook visualization (remove if not using Jupyter/IPython)
+ipython

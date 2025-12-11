@@ -51,9 +51,6 @@ venv.bak/
 # Streamlit
 .streamlit/
 
-# Generated files
-graph.png
-
 # Testing
 .pytest_cache/
 .coverage

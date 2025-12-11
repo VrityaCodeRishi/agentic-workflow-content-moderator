@@ -162,7 +162,3 @@ if __name__ == "__main__":
     with open("graph.png", "wb") as f:
         f.write(graph_image)
     print("Graph saved to graph.png")
-    
-    # Test with empty content (or set INPUT_PROMPT)
-    # result = builder.invoke({"content": ""})
-    # print(result)
